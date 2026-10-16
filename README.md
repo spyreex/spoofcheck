@@ -36,7 +36,7 @@ In the terminal, grades and verdicts are colored (green = safe, yellow = partial
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/spoofcheck.git
+git clone https://github.com/spyreex/spoofcheck.git
 cd spoofcheck
 pip install -r requirements.txt
 ```
